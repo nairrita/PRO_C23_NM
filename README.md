@@ -1,1 +1,2 @@
-# PRO_C23_NM
+# p5.play-boilerplate
+Boiler plate for p5.play
